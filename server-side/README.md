@@ -20,10 +20,10 @@ DB_HOST ='data_base_host'
 DB_NAME ='data_base_name'
 NODE_ENV = 'dev'
 ```
-Crie as tabelas do bando de dados utilizando o comando a seguir que ira executar as migrations.
+Crie as tabelas do banco de dados utilizando o comando a seguir que ira executar as migrations.
 
 ```npx knex migrate:latest```
 
-Para executar o server-side no modo desenvolvedor basta o comando a seguir.
+Para executar o server-side no modo desenvolvedor basta usar o comando a seguir.
 
 ```yarn dev```
