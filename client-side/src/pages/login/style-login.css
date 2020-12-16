@@ -1,0 +1,76 @@
+.page-login {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.card-login {
+  width: 329px;
+  height: 302px;
+  background: #000000;
+  opacity: 0.76;
+  border: 1px solid #000000;
+  box-sizing: border-box;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 23.539px;
+}
+.section-logo-login {
+  width: 100%;
+  height: 25%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.logo-login {
+  width: auto;
+  height: 40px;
+}
+.section-form-login {
+  width: 100%;
+  height: 65%;
+  display: inherit;
+}
+.form-group-login {
+  display: grid;
+  margin-bottom: 27px;
+  justify-content: center;
+}
+.section-form-login .form-group-login input {
+  width: 296px;
+  height: 31px;
+  font-size: 14px;
+}
+.section-form-login .form-group-login label {
+  font-size: 12px;
+  color: white;
+  font-weight: bolder;
+  margin-bottom: 4px;
+}
+.btn {
+  width: 191px;
+  height: 32px;
+  border-radius: 5px;
+  border: 0;
+  text-align: center;
+  background: #f31111;
+  color: white;
+  font-size: 14px;
+  transition: filter 0.2s;
+}
+
+.sectio-footer-login {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.link-login {
+  color: white;
+  font-size: 14px;
+  text-decoration: none;
+  transition: font-size 0.2s;
+}
+
+.link-login:hover {
+  font-size: 16px;
+}

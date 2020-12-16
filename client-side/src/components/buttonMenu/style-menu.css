@@ -1,0 +1,12 @@
+.btn-options {
+  width: 191px;
+  height: 32px;
+  border-radius: 5px;
+  border: 0;
+  text-align: center;
+  background: #f31111 !important;
+  color: white !important;
+  font-size: 14px important;
+  font-weight: bold important;
+  transition: filter 0.2s;
+}

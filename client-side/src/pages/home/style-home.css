@@ -1,0 +1,88 @@
+.page-home {
+  width: 100vw;
+  height: 100vh;
+}
+.header-menu {
+  width: 100vw;
+  height: 50px;
+  background: #000000;
+  opacity: 0.76;
+  display: inline-flex;
+}
+.logo-menu {
+  width: auto;
+  height: 50px;
+}
+.section-left-menu {
+  width: 13%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  padding-left: 10px;
+  justify-content: center;
+}
+.section-right-menu {
+  width: 87%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  padding-right: 30px;
+  justify-content: flex-end;
+}
+.name-user {
+  font-size: 18px;
+  color: white;
+}
+.body-content {
+  width: 100%;
+  height: calc(100vh - 50px);
+  padding-left: 80px;
+  padding-right: 80px;
+}
+.options-home {
+  width: 100%;
+  height: 100px;
+  display: inline-flex;
+}
+.section-left-option {
+  width: 65%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  padding-left: 10px;
+  justify-content: flex-start;
+}
+.btn-options {
+  width: 191px;
+  height: 32px;
+  border-radius: 5px;
+  border: 0;
+  text-align: center;
+  background: #f31111;
+  color: white;
+  font-size: 17px;
+  transition: filter 0.2s;
+  font-weight: bold;
+}
+.opitions-hero {
+  margin-right: 20px;
+}
+.opitions-comics {
+  margin-right: 20px;
+}
+.opitions-favorite {
+  text-align: center;
+}
+.section-right-option {
+  width: 35%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  padding-right: 30px;
+  justify-content: flex-end;
+}
+.search-option{
+  width: 400px;
+  height: 31px;
+  font-size: 14px
+}
