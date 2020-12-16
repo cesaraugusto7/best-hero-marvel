@@ -8,7 +8,7 @@ Antes de mais nada e necessario instalar o NodeJs, e logo em seguida o <b>yarn.<
 
 [YARN] (https://classic.yarnpkg.com/en/)
 
-Com o node instalado execute o comando para baixar todas as dependências do projeto.
+Com o NodeJs instalado execute o comando para baixar todas as dependências do projeto.
 
 ```npm install```
 
@@ -24,6 +24,10 @@ Crie as tabelas do banco de dados utilizando o comando a seguir que ira executar
 
 ```npx knex migrate:latest```
 
-Para executar o server-side no modo desenvolvedor basta usar o comando a seguir.
+Para executar o server-side no modo desenvolvedor utilizando <b>nodemon</b> basta usar o comando a seguir.
 
 ```yarn dev```
+
+Para executar o server-side no modo desenvolvedor normalmente basta usar o comando a seguir.
+
+```npm start```
