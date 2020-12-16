@@ -4,9 +4,9 @@
 
 Antes de mais nada e necessario instalar o NodeJs, e logo em seguida o <b>yarn.<b>
 
-[MIT] https://nodejs.org/en/
+[MIT] (https://nodejs.org/en/)
 
-[MIT] https://classic.yarnpkg.com/en/
+[MIT] (https://classic.yarnpkg.com/en/)
 
 Com o node instalado execute o comando para baixar todas as dependências do projeto.
 
