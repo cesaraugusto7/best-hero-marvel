@@ -2,7 +2,7 @@
 
 ## Instruções para executar o server-side localmente
 
-Antes de mais nada e necessario instalar o NodeJs, e logo em seguida o <b>yarn.<b>
+Antes de mais nada e necessario instalar o NodeJs, e logo em seguida o <b>yarn.</b>
 
 [NodeJS] (https://nodejs.org/en/)
 
@@ -12,7 +12,7 @@ Com o node instalado execute o comando para baixar todas as dependências do pro
 
 ```npm install```
 
-Configure as variáveis de ambiente seguindo o padrão abaixo de acordo com as configurações de sue banco de dados.Obs: A variável <b>NODE_ENV<b/> deve permanecer com o valor "dev" para que a aplicação seja executada localmente.
+Configure as variáveis de ambiente seguindo o padrão abaixo de acordo com as configurações de sue banco de dados.Obs: A variável <b>NODE_ENV</b> deve permanecer com o valor "dev" para que a aplicação seja executada localmente.
 
 ```DB_KEY ='data_base_password'
 DB_USER ='data_base_user'
