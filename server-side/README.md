@@ -12,7 +12,8 @@ Com o NodeJs instalado execute o comando para baixar todas as dependências do p
 
 ```npm install```
 
-Configure as variáveis de ambiente seguindo o padrão abaixo de acordo com as configurações de sue banco de dados.Obs: A variável <b>NODE_ENV</b> deve permanecer com o valor "dev" para que a aplicação seja executada localmente.
+Crie um arquivo <b>.env</b> e configure as variáveis de ambiente seguindo o padrão abaixo de acordo com as configurações de seu banco de dados. 
+Obs: A variável <b>NODE_ENV</b> deve permanecer com o valor "dev" para que a aplicação seja executada localmente. O banco de dados utilizado foi o PostgreSQL, portanto devido a funcionalidades e recursos que ele oferece é importante que o mesmo seja utilizado na utilização do server-side.
 
 ```DB_KEY ='data_base_password'
 DB_USER ='data_base_user'
