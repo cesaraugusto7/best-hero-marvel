@@ -27,4 +27,3 @@ Crie as tabelas do bando de dados utilizando o comando a seguir que ira executar
 Para executar o server-side no modo desenvolvedor basta o comando a seguir.
 
 ```yarn dev```
-
