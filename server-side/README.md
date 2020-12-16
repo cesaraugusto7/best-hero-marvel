@@ -1,6 +1,6 @@
 # Best Hero Server-Side
 
-##Instruções para executar o server-side localmente
+## Instruções para executar o server-side localmente
 
 Antes de mais nada e necessario instalar o NodeJs, e logo em seguida o <b>yarn.<b>
 
